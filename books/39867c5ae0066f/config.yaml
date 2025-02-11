@@ -1,7 +1,10 @@
-title: ""
-summary: ""
-topics: []
-published: false
-price: 0 # 有料の場合200〜5000
-# 本に含めるチャプターを順番に並べましょう
-chapters:
+title: "[編集中] GO言語で簡単なShellを実装する🐟🐠🐡"
+summary: |-
+  Shellを作りながら理解する本
+
+topics:
+  - "go"
+  - "shell"
+published: true
+price: 0
+toc_depth: 2
